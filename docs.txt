@@ -1,0 +1,27 @@
+##############
+# go modules
+##############
+
+
+>> In general, Go module keeps track of the dependencies in files named go.mod and go.sum
+
+>> go.sum is automatically generated and derived from go.mod, so you typically never need to do anything directly to that file
+
+>> go.mod = package.json , go.sum = package-lock.json
+
+>> to create a module:
+>> go mod init  github.com/AbdelrahmanAbounida/go_docs #  it initializes the current directory as a Go module directory
+
+>> to install dependency
+go get -u -d github/.. 
+
+>> when something looks off
+go mod tidy
+
+
+
+>> general steps:
+
+(1) go mod init your_repo_name/ desired_module_name
+(2) go mod tidy
+
