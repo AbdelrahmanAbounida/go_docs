@@ -1,0 +1,88 @@
+
+Tools >> gRPC, proto
+
+
+
+>> http/net
+
+>> Rest API
+
+>> GRPC
+
+>> Gorilla
+
+>> gin
+
+
+https://www.youtube.com/watch?v=VzBGi_n65iU&list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
+
+(1) Building Modern Web Applications with Go (Golang)
+(2) Working with Microservices in Go (Golang)
+(3) Working with React and Go (Golang)
+
+#############################################################
+
+(0) go net/http library 
+
+
+(1) gin
+
+(2) beego
+
+(3) echo
+
+(4) kit 
+
+(5) fasthttp
+
+(6) Fiber
+
+(7) Gorilla
+
+(8) Go-zero
+
+(9) Kratos
+
+(10) Buffalo
+
+(11) Goji
+
+(12) Iris
+
+(13) Revel
+
+
+gin, Fiber, Gorrilla mux, Buffalo, Revel, Go Micro, go-kit, echo, 
+
+_____________________________________
+
+Courses:
+
+
+3- UseGolang-Learn-to-Create-Web-Applications-using-Go
+
+
+
+1- The Complete Developer's Guide (Golang)
+
+2- Working with Microservices in (Golang)
+
+4- gRPC [Node.js] MasterClass Build Modern API & Microservices
+
+6-Mastering Multithreading Programming with Go (Golang)
+
+7- Working with React and Go (Golang)
+
+8- Building Modern Web Applications with Go (Golang)
+
+9- Complete Guide to Protocol Buffers 3 [Java, Golang, Python]
+
+10- Build Realtime Apps  React Js, Golang & RethinkDB
+
+11- Backend Master Class [Golang + PostgreSQL + Kubernetes]
+
+12- Web Development w Google’s Go (golang) Programming Language " هاااام "
+
+13- Master Go (Golang) Programming - The Complete Go Bootcamp 2021
+
+____________________________________
